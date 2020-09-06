@@ -1,4 +1,4 @@
-from pyimagesearch.models.Sudokunet import SudokuNet
+from image_search.models.Sudokunet import SudokuNet
 from keras.optimizers import Adam
 from tensorflow.keras.datasets import mnist
 from sklearn.preprocessing import LabelBinarizer

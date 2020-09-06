@@ -1,4 +1,4 @@
-from pyimagesearch.Sudoku.puzzle import extract_digit, find_puzzle
+from image_search.Sudoku.puzzle import extract_digit, find_puzzle
 from tensorflow.keras.preprocessing.image import img_to_array
 from tensorflow.keras.models import load_model
 from sudoku import Sudoku
